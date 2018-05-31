@@ -1,0 +1,19 @@
+{
+  "name": "first-react-app",
+  "version": "0.0.1",
+  "description": "first-react-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "reactjs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/woshiqyb/reactLearning.git"
+  },
+  "author": "react book group",
+  "license": "MIT"
+}
